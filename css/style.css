@@ -1,0 +1,38 @@
+body{
+    background-color: papayawhip;
+    
+}
+.searchContainer{
+    margin-top: 50px;
+    background-color: black;
+    color: lightgray;
+    padding:15px;
+    border-radius: 30px;
+}
+
+img{
+    width:100%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+#profile{
+    padding:20px;
+    
+    border:lightgray;
+}
+
+.btn{
+    margin-top:5px;
+}
+
+.bg-theme{
+    background-color: rgb(233, 230, 230);
+}
+
+.card{
+    padding:10px;
+}
+.card-title{
+    margin:10px;
+}
